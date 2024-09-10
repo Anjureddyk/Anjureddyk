@@ -1,7 +1,5 @@
 # 💫 About Me:
-I'am currently working on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to transform business decision-making with generative AI.<br>I'm looking to collaborate on machine learning, deep learning, and AI projects, especially those involving LLMs, predictive analytics, or computer vision.<br>Enhancing my skills in API development and model deployment.<br>Ask me about data science, machine learning models, generative AI, or building web applications.<br>Fun fact: I'm passionate about exploring AI's potential in animation and storytelling, and I love writing blogs in my free time!<br><br><br><br><br><br><br>
-
-
+I'am currently working on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to transform business decision-making with generative AI.<br>I'm looking to collaborate on machine learning, deep learning, and AI projects, especially those involving LLMs, predictive analytics, or computer vision.<br>Enhancing my skills in API development and model deployment.<br>Ask me about data science, machine learning models, generative AI, or building web applications.<br>Fun fact: I'm passionate about exploring AI's potential in animation and storytelling, and I love writing blogs in my free time!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anju-reddy-k-844911172) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@anju75061) 
 
